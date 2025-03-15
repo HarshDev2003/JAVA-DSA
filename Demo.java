@@ -118,11 +118,72 @@
 
 // 7 Loops
 // 7.1 For loops
-public class Demo{
-    public static void main (String [] args){
-        for(int num = 0; num<10; num++)
-        {
-            System.out.println("Hello");
-        }
-    }
-}
+// import java.util.Scanner;
+// public class Demo{
+//     public static void main (String [] args){
+//         Scanner sc = new Scanner(System.in);
+//         String name = sc.nextLine();
+//         int num;
+//         for( num = 0; num<10; num++)
+//         {
+//             System.out.println("Hello " + name );
+//         }
+//     }
+// }
+
+
+
+// 7.2 While Loops
+// import java.util.Scanner;
+// public class Demo{
+//     public static void main(String [] args){
+//         int num = 0;
+//         Scanner sc = new Scanner(System.in);
+//         String name = sc.nextLine();
+//         while(num <10){
+
+//             System.out.println(name);
+//             num++;
+//         }
+//         sc.close();
+//     }
+// }
+
+
+
+// 7.3 Do while loops
+// public class Demo{
+//     public static void main(String [] args){
+//         int a = 0;
+//         do{
+//             System.out.println("Hello Java");
+//             a++;
+//         }
+//         while(a<5);
+        
+        
+//     }
+// }
+
+
+
+
+// Array With loops
+// import java.util.Scanner;
+// import java.util.Arrays;
+// public class Demo {
+//     public static void main(String [] args ){
+//         Scanner sc = new Scanner(System.in);
+//         int array[] = new int[5];
+//         for(int num = 0 ; num <5; num ++){
+//             array[num] = sc.nextInt();
+//             System.out.println("Values are " + array[num] );
+
+//         }
+//      sc.close
+
+//     }
+// }
+
+
+
